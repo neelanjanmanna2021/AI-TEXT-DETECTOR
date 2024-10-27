@@ -4,7 +4,7 @@
 # Text Analysis Program
 
 ## Overview
-The Text Analysis Program is a Rust-based command-line application that analyzes text files to determine if the content is likely human-generated or AI-generated. It counts words, ignores common stop words, and applies basic analysis heuristics to classify the text.
+The Text Analysis Program is a Rust-based command-line application that analyzes text files to determine if the content is likely human-generated or AI-generated.
 
 ## Features
 - Determines if the text is likely human-generated or AI-generated.
